@@ -1,0 +1,7 @@
+-preguntar notas
+imprimir el reporte de notas
+encontrar la mejor, peor nota y la nota mas repetida
+promedio
+corregir notas
+si el estudiante se retira eliminar sus notas
+o agregar una nota
